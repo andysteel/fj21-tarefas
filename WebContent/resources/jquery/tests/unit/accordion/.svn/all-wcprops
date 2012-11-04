@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion
+END
+accordion_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion_options.js
+END
+accordion.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion.html
+END
+accordion_core.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion_core.js
+END
+accordion_events.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion_events.js
+END
+accordion_tickets.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion_tickets.js
+END
+accordion_methods.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion_methods.js
+END
+accordion_defaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/accordion/accordion_defaults.js
+END

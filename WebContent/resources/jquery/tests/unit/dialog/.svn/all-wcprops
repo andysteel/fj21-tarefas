@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog
+END
+dialog_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog_options.js
+END
+dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog.html
+END
+dialog_core.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog_core.js
+END
+dialog_events.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog_events.js
+END
+dialog_tickets.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog_tickets.js
+END
+dialog_methods.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog_methods.js
+END
+dialog_defaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/fj21-agenda2/WebContent/jquery/tests/unit/dialog/dialog_defaults.js
+END
